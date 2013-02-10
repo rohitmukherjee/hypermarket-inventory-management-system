@@ -1,0 +1,29 @@
+3
+y
+Fuji Apple 
+Fruit
+10001
+0.4
+The Sunkist Co
+300
+0
+01012012
+0
+y
+Sunkist Orange
+Fruit
+10002
+0.3
+The Sunkist Co
+200
+0
+02012012
+0
+n
+Parker Pen
+Light Stationary
+10003
+0.2
+Parker
+3000
+0

@@ -1,0 +1,1 @@
+Please double click on the CICMS Launcher.exe file to get the GUI. All the source files are in the "Source Files" folder.
