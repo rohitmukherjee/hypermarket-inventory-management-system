@@ -12,5 +12,5 @@ Stack Used:
 <li>Performs Batch Operations</li>
 
 
-![Screenshot](https://rohitmukherjee.github.io/images/CICMS/2.png) 
-![Screenshot](https://rohitmukherjee.github.io/images/CICMS/1.png) 
+![Screenshot](https://raw.github.com/rohitmukherjee/rohitmukherjee.github.io/master/images/CICMS/1.jpg)
+![Screenshot](https://raw.github.com/rohitmukherjee/rohitmukherjee.github.io/master/images/CICMS/2.png)
